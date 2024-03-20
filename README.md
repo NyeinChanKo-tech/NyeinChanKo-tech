@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.facebook.com/le0n.nyein**
 
-- 📄 Know about my experiences [Networing , Linux , Dev](Networing , Linux , Dev)
+- 📄 Know about my experiences [Networing , Linux , Dev]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
